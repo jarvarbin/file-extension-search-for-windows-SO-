@@ -1,4 +1,6 @@
 # file-extension-search-for-windows-SO-
+
+ simple example of how to write a C program that searches for files with a specific extension in a given directory in Windows:
 ```
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡄⠀⠀⠀⠀⠀⠀⢀⣀⣀⣠⣤⣤⣤⣤⣤⣤⣤⣤⠀⠀⢀⠀⢧⢠⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⢀⠆⢰⠀⠀⠀⣼⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⢿⣧⡀⠀⡇⠘⡌⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
